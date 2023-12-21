@@ -1,0 +1,89 @@
+header {
+	border-bottom: 1px solid #d4d4d4;
+}
+
+section {
+	position: fixed;
+	top: 21%;
+	left: 18%;
+	background-color: #f8f8f8;
+	height: 450px;
+	width: 60%;
+	border-top: 1px solid black;
+	/* border-left: 1px solid black; */
+}
+
+.H3 {
+	margin: 20px 20px 0 50px;
+}
+
+.Head {
+	position: fixed;
+	top: 11%;
+	left: 18%
+}
+
+.delete {
+	position: fixed;
+	top: 79%;
+	right: 23%;
+	height: 30px;
+	width: 60px;
+	border: none;
+	background: red;
+	color: white;
+	cursor: pointer;
+}
+
+.fileForm {
+	position: fixed;
+    top: 55%;
+    left: 22%;
+}
+
+.edit {
+	position: fixed;
+	top: 65%;
+	left: 22%;
+	height: 30px;
+	width: 60px;
+	border: none;
+	background: red;
+	color: white;
+	cursor: pointer;
+}
+
+.secP {
+	position: fixed;
+	top: 63%;
+	left: 19%;
+	margin-left: 50px;
+}
+
+.Picture {
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	position: fixed;
+	top: 30%;
+	left: 25%;
+}
+
+.allP {
+	margin: 20px 20px 0 50px;
+}
+
+#preview {
+	size: 10pt;
+	color: gray;
+}
+
+#myModal {
+	display: none;
+}
+
+#profileImage {
+	width: 150px;
+    border: 1.5px solid silver;
+    border-radius: 100%;
+}
